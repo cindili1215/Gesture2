@@ -81,6 +81,7 @@ fun Tap() {
     Column {
         Text(text = msg)
 
+
         Image(
             painter = painterResource(id = PU[Number]),
             contentDescription = "靜宜之美",
