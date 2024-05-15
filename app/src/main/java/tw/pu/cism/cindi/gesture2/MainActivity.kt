@@ -72,6 +72,7 @@ fun Tap() {
     var offset2 by remember { mutableStateOf(Offset.Zero) }
     var PU = arrayListOf(R.drawable.pu0, R.drawable.pu1,
         R.drawable.pu2, R.drawable.pu3,
+
         R.drawable.pu4, R.drawable.pu5)
     var Number by remember { mutableStateOf(0) }
 
